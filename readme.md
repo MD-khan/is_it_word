@@ -1,2 +1,5 @@
-This application create word(s) from the given alphabets. Not only that it also find the valid word.
-This application uges the Oxford Dictionary API 
+# IS IT WORD
+
+This app finds word(s) from the given characters. If you are stuck on your dayly word puzzle game, this application may help you to find the perfect word.
+
+## Example of Uges
